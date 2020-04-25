@@ -1,0 +1,8 @@
+POST https://afsqlmanagedserviceidentityappservice.azurewebsites.net/api/HttpTriggerWithMSI?code=YOUR_FUNCTION_KEY
+
+{
+  "firstname": "Stefano",
+  "lastname": "Demiliani",
+  "email": "sd@demiliani.com",
+  "devicelist": "XXX"
+}
